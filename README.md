@@ -3,6 +3,12 @@
 - 🔭 Em busca de um Estágio
 - 🌱 Atualmente estou aprendendo JavaScript
 - 😄 Pronouns: ele/dele
+<div style="display:inline-block" align="center">
+ <div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="dark" data-type="HORIZONTAL" data-vanity="wisley-a-sousa-843060a2" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/wisley-a-sousa-843060a2?trk=profile-badge">🔗✅ Wisley A. Sousa (LinkedIn)                      </a></div>      
+  </div>
+             
+
+              
  ##
 <div style="display:inline-block" align="center">
   <a href="https://github.com/WisleyASousa">
