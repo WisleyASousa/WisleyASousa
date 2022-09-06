@@ -1,4 +1,4 @@
-### Salut! Bienvenu(e), Sou Wisley A. Sousa
+### Salut! Bienvenu(e), Sou <h1 align="center">Wisley A. Sousa</h1>
 
 - 🔭 Em busca de um Estágio
 - 🌱 Atualmente estou aprendendo JavaScript, TypeScript.
@@ -7,7 +7,12 @@
  <div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="dark" data-type="HORIZONTAL" data-vanity="wisley-a-sousa-843060a2" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/wisley-a-sousa-843060a2?trk=profile-badge">🔗✅ Wisley A. Sousa (LinkedIn)                      </a></div>      
   </div>
              
+<div style="display:inline-block" align="center">
+<h3>Biografia - Resumo Simplificado</h3>
+<p>
 
+Wisley é um estudante do IFPI campus Picos, onde Ele cursa Análise e Desenvolvimento de Sistemas, nele se inclui a competência de a cada dia aprender mais e manter um ritmo que faça aquilo ser sempre o melhor para ele. Desde criança ele sempre teve poucos amigos e quase nunca teve alguém com quem poderia contar, mas nem por isso ele desistiu de sonhos e objetivos. Sempre foi um grande amante da Tecnologia. Nas horas vagas ele ama um bom Video Game.</p>
+</div>
               
  ##
 <div style="display:inline-block" align="center">
