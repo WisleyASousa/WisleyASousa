@@ -25,7 +25,7 @@ Wisley é um estudante do IFPI campus Picos, onde Ele cursa Análise e Desenvolv
   <img align="center" alt="Wisley-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Wisley-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Wisley-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Wisley-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Wisley-Python" height="40" width="50" src="https://icongr.am/devicon/typescript-original.svg?size=128&color=currentColor">
  
 </div>
 
