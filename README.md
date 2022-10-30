@@ -25,9 +25,12 @@ Wisley é um estudante do IFPI campus Picos, onde Ele cursa Análise e Desenvolv
   <img align="center" alt="Wisley-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Wisley-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Wisley-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Wisley-Python" height="40" width="50" src="https://icongr.am/devicon/typescript-original.svg?size=128&color=currentColor">
+  <img align="center" alt="Wisley-TypeScript" height="40" width="50" src="https://icongr.am/devicon/typescript-original.svg?size=128&color=currentColor">
+  <img align="center" alt="Wisley-React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"">
  
 </div>
+
+
 
   ##
 
@@ -51,3 +54,10 @@ Wisley é um estudante do IFPI campus Picos, onde Ele cursa Análise e Desenvolv
   <a href = "https://open.spotify.com/user/12163106575?si=_P9yoqfTTomXqNclE79AMA"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
   
 </div>
+
+##
+<div align="center"> 
+                   
+![visitors](https://visitor-badge.glitch.me/badge?page_id=wisleyasousa)
+</div>
+
