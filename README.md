@@ -84,6 +84,7 @@ Wisley é um estudante do IFPI campus Picos, onde Ele cursa Análise e Desenvolv
 <p align="justify">- Além disso, também estudei Bootstrap, CSS e HTML, que são fundamentais para o desenvolvimento de interfaces web. Aprender a criar interfaces responsivas e bem projetadas é essencial para o sucesso de qualquer aplicação web.</p>
 <p align="justify">- Por fim, também comecei a estudar React e Next.js, que são frameworks muito populares para o desenvolvimento de aplicações web. Embora ainda esteja no estágio inicial de aprendizado dessas tecnologias, estou animado para continuar explorando seus recursos e possibilidades.</p>
 <p align="justify">- No geral, esses últimos três meses têm sido muito produtivos em termos de aprendizado, e espero continuar evoluindo minhas habilidades e conhecimentos nos próximos meses e anos.</p>
+<p align="right">- Atualizado 07/04/2023</p>
                    
 ##
 <div align="center"> 
