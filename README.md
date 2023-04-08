@@ -1,7 +1,7 @@
 ### Salut! Bienvenu(e), Sou <h1 align="center"> :computer: **Wisley A. Sousa** :desktop_computer: </h1>
 ___
 
-- 🔭 Em busca de um Estágio
+- 🔭 Em busca de um Estágio/junior
 - 🌱 Atualmente estou aprendendo **JavaScript, TypeScript, React, Next.JS**.
 - 😄 Pronouns: ele/dele
 <div style="display:inline-block" align="center">
